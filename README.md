@@ -27,4 +27,4 @@ Contiene las siguientes secciones:
 Aprender a utilizar las etiquetas estándar de HTML5 y CSS3
 
 ## 4. Link a demo
-Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](https://app.netlify.com/sites/remarkable-cactus-1cef3b/deploys/642f613c97f8b52f8cbe13f4)
+Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](https://app.netlify.com/sites/remarkable-cactus-1cef3b)
